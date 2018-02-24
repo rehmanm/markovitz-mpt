@@ -14,6 +14,6 @@ Pleaes create virtual environment using below steps
 
 1) python3 -m venv env (your preferred name)
 2) activate virtualenv env
-    i) source env/bin/activate (Linux and Mac)
-    ii) env/Scripts/activate.bat (Windows)
+    a) source env/bin/activate (Linux and Mac)
+    b) env/Scripts/activate.bat (Windows)
 3) Install dependencies using "python3 install -r requirements.txt"
