@@ -13,7 +13,7 @@ assets = ['CNP', 'F', 'WMT', 'GE', 'TSLA']
 
 
 startDate = datetime.datetime(2017, 1, 1)
-endDate = datetime.datetime(2018, 12, 31)
+endDate = datetime.datetime(2018, 12, 31) 
 
 # Using Pandas_Data_Reader Data
 #data_reader = pdr.getdata(startDate, endDate, assets, dataSource='robinhood', columnToRead = 'close_price')
